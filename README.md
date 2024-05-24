@@ -5,7 +5,10 @@
 # Orientation Data Prediction
 
 ## Overview
-This project extends the Real-Time Orientation App by exporting the historical orientation data as a text file and using it to predict the next 10 seconds of values. The predictions are then plotted against the actual values for comparison. Additionally, the sensing intervals are changed to three different values, and the process is repeated to analyze the impact on prediction accuracy.
+This project extends the Real-Time Orientation App by exporting the historical orientation data as a text file and using
+it to predict the next 10 seconds of values. The predictions are then plotted against the actual values for comparison.
+Additionally, the sensing intervals are changed to three different values, and the process is repeated to analyze the impact
+on prediction accuracy.
 
 ## Developer
 Ujjwal Godara, IIIT Delhi Student, Mobile Computing Course 2024

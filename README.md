@@ -28,5 +28,5 @@ Ujjwal Godara, IIIT Delhi Student, Mobile Computing Course 2024
 
 ## Installation
 1. Clone the repository:
-   ```sh
-   git clone https://github.com/ujjwal-godara/orientation-data-prediction.git
+   
+   git clone [https://github.com/ujjwal-godara/orientation-data-prediction.git](https://github.com/ujjwalgodara9/TImeseries-Plot/tree/main)
